@@ -1,7 +1,7 @@
 ### Olá, eu sou IgorEditilioes
 
 - 🔭 Trabalho com Python
-- 🌱 Estudando Django, machine learning e em breve react native
+- 🌱 Estudando Django, Flask, JavaScript e aprimorando os conhecimentos em Python.
 
 <div align="center">
   <a href="https://github.com/igoreditilioes">
