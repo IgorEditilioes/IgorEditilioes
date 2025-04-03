@@ -1,7 +1,9 @@
 ### Olá, eu sou IgorEditilioes
 
-- 🔭 Trabalho com Python
-- 🌱 Estudando Django, Flask, JavaScript e aprimorando os conhecimentos em Python.
+- Programador e entusiasta de Python
+- Estudando Pandas, Matplotlib, Seaborn e aprimorando os conhecimentos em Python
+- Pós graduado em inteligência artificial e machine learning
+- 
 
 <div align="center">
   <a href="https://github.com/igoreditilioes">
