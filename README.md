@@ -1,7 +1,7 @@
 ### Olá, eu sou IgorEditilioes
 
 - Programador e entusiasta de Python
-- Estudando Pandas, Matplotlib, Seaborn e aprimorando os conhecimentos em Python
+- Estudando Django, Pandas, Matplotlib, Seaborn e aprimorando os conhecimentos em Python
 - Pós graduado em inteligência artificial e machine learning
   
 
